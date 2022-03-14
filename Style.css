@@ -1,0 +1,25 @@
+.img-rectangle {
+    clip-path: ellipse(33% 50%);
+}
+
+.img-carree {
+    clip-path: ellipse(50% 50%);
+}
+  
+  /* Add a background color and some padding around the form */
+  .container {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+  }
+  .container > img {
+    float: right;
+    margin-right: 1em;
+  }
+  .container > p {
+    text-align: justify;
+  }
+  .extra {
+    color: red;
+  }
+  
